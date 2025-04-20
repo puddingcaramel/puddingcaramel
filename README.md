@@ -112,7 +112,7 @@
   </section>  <section id="kontak">
     <h2>Kontak</h2>
     <p style="text-align:center;">Hubungi kami melalui WhatsApp untuk informasi lebih lanjut:</p>
-    <p style="text-align:center;"><a class="btn" href="https://wa.me/6281234567890" target="_blank">Chat Sekarang</a></p>
+    <p style="text-align:center;"><a class="btn" href="https://wa.me/6289630546751" target="_blank">Chat Sekarang</a></p>
   </section>  <section id="saran">
     <h2>Berikan Saran</h2>
     <form action="#">
